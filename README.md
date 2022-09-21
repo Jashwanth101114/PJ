@@ -47,4 +47,4 @@ Page contains some details to be filled by the customer and the page also contaa
 
 This is the brief description about the website AGRONY.The main motto to design this website and the products and services which are offered.
 
-You can check out my website by pressing the following link 
+You can check out my website by pressing the following link https://yellow-wave-069a5eb10.1.azurestaticapps.net
